@@ -9,7 +9,6 @@ begin
     gem.email             = "blake@coin-operated.net"
     gem.homepage          = "http://github.com/skinandbones/rack-gridfs"
     gem.authors           = ["Blake Carlson"]
-    gem.rubyforge_project = "rack-gridfs"
 
     gem.add_dependency('rack')
     gem.add_dependency('mongo', '0.19.1')
